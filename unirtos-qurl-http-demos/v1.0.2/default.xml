@@ -2,5 +2,5 @@
 <manifest>
   <remote name="origin" fetch="https://github.com/unirtos/" />
   <!-- Demo source repository -->
-  <project name="unirtos_qurl_http_demos" path="." remote="origin" revision="v1.0.1" />
+  <project name="unirtos-qurl-http-demos" path="." remote="origin" revision="v1.0.2" />
 </manifest>
