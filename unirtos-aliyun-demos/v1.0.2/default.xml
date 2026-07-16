@@ -2,5 +2,5 @@
 <manifest>
   <remote name="origin" fetch="https://github.com/unirtos/" />
   <!-- Demo source repository -->
-  <project name="unirtos_aliyun_demos" path="." remote="origin" revision="v1.0.0" />
+  <project name="unirtos-aliyun-demos" path="." remote="origin" revision="v1.0.2" />
 </manifest>
